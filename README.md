@@ -57,7 +57,7 @@ aliyun-m3u8-downloader 是一个使用了 Go 语言编写的迷你 M3U8 下载�
 - [ ] [知群](https://izhiqun.com/)
 - [x] [短书平台](https://www.duanshu.com/) --> [太阳老师讲数学](https://hlrzp.duanshu.com) 公众号
 - [x] [Siki学院-免费课程](https://www.sikiedu.com/)
-- 图形化界面下载器，适合无计算机基础用户使用
+- 图形化界面下载器，适合无计算机基础用户使用，后续主要方向
 
 ![main](images/main.png)
 
